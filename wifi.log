@@ -1,0 +1,930 @@
+Aug 15 00:06:46 SuperStars-MacBook-Pro newsyslog[2450]: logfile turned over
+Wed Aug 15 00:06:56.462 <kernel> wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10
+Wed Aug 15 00:06:56.463 <kernel> wl0: setup_keepalive: Local IP: 192.168.0.36
+Wed Aug 15 00:06:56.463 <kernel> wl0: setup_keepalive: Remote IP: 17.249.230.28
+Wed Aug 15 00:06:56.463 <kernel> wl0: setup_keepalive: Local port: 60244, Remote port: 5223
+Wed Aug 15 00:06:56.463 <kernel> wl0: setup_keepalive: Seq: 1558799806, Ack: 3421488139, Win size: 4096
+Wed Aug 15 00:06:56.464 <kernel> wl0: MDNS: IPV4 Addr: 192.168.0.36
+Wed Aug 15 00:06:56.464 <kernel> wl0: MDNS: IPV6 Addr: fe80:0:0:0:18e3:aa0:2ec3:6789
+Wed Aug 15 00:06:56.464 <kernel> wl0: MDNS: IPV6 Addr: 2604:2d80:402d:81a9:1ca9:72f1:e0c2:5b69
+Wed Aug 15 00:06:56.464 <kernel> wl0: MDNS: IPV6 Addr: 2604:2d80:402d:81a9:34d7:6729:bd4:9fc0
+Wed Aug 15 00:06:56.464 <kernel> wl0: MDNS: 0 SRV Recs, 0 TXT Recs
+Wed Aug 15 00:06:56.464 <kernel> wl0: MDNS: 4 TCP ports:  548  445  3031  49201 
+Wed Aug 15 02:07:04.391 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Wed Aug 15 02:07:04.399 <kernel> IO80211VirtualInterface::handleSIOCSIFFLAGS : Source controllerWillChangePowerState calling peerManager->disable
+Wed Aug 15 02:07:04.399 <kernel> wl0: wl_update_tcpkeep_seq: Original Seq: 1558799806, Ack: 3421488139, Win size: 4096
+Wed Aug 15 02:07:04.399 <kernel> wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 1558799806, Ack 3421488139, Win size 250
+Wed Aug 15 02:07:04.399 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+Wed Aug 15 02:07:04.399 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable], in_fatal_err[0]
+Wed Aug 15 02:07:04.399 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+Wed Aug 15 02:07:05.075 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Wed Aug 15 02:07:15.744 <kernel> wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10
+Wed Aug 15 02:07:15.744 <kernel> wl0: setup_keepalive: Local IP: 192.168.0.36
+Wed Aug 15 02:07:15.744 <kernel> wl0: setup_keepalive: Remote IP: 17.249.230.28
+Wed Aug 15 02:07:15.744 <kernel> wl0: setup_keepalive: Local port: 60244, Remote port: 5223
+Wed Aug 15 02:07:15.744 <kernel> wl0: setup_keepalive: Seq: 1558799981, Ack: 3421488192, Win size: 4096
+Wed Aug 15 02:07:15.745 <kernel> wl0: MDNS: IPV4 Addr: 192.168.0.36
+Wed Aug 15 02:07:15.745 <kernel> wl0: MDNS: IPV6 Addr: fe80:0:0:0:18e3:aa0:2ec3:6789
+Wed Aug 15 02:07:15.745 <kernel> wl0: MDNS: IPV6 Addr: 2604:2d80:402d:81a9:1ca9:72f1:e0c2:5b69
+Wed Aug 15 02:07:15.745 <kernel> wl0: MDNS: IPV6 Addr: 2604:2d80:402d:81a9:34d7:6729:bd4:9fc0
+Wed Aug 15 02:07:15.745 <kernel> wl0: MDNS: 0 SRV Recs, 0 TXT Recs
+Wed Aug 15 02:07:15.746 <kernel> wl0: MDNS: 4 TCP ports:  548  445  3031  49201 
+Wed Aug 15 04:07:23.434 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Wed Aug 15 04:07:23.478 <kernel> IO80211VirtualInterface::handleSIOCSIFFLAGS : Source controllerWillChangePowerState calling peerManager->disable
+Wed Aug 15 04:07:23.479 <kernel> wl0: wl_update_tcpkeep_seq: Original Seq: 1558799981, Ack: 3421488192, Win size: 4096
+Wed Aug 15 04:07:23.479 <kernel> wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 1558799981, Ack 3421488192, Win size 250
+Wed Aug 15 04:07:23.479 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+Wed Aug 15 04:07:23.479 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable], in_fatal_err[0]
+Wed Aug 15 04:07:23.479 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+Wed Aug 15 04:07:24.069 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Wed Aug 15 04:07:34.008 <kernel> wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10
+Wed Aug 15 04:07:34.009 <kernel> wl0: setup_keepalive: Local IP: 192.168.0.36
+Wed Aug 15 04:07:34.009 <kernel> wl0: setup_keepalive: Remote IP: 17.249.230.28
+Wed Aug 15 04:07:34.011 <kernel> wl0: setup_keepalive: Local port: 60244, Remote port: 5223
+Wed Aug 15 04:07:34.011 <kernel> wl0: setup_keepalive: Seq: 1558800156, Ack: 3421488245, Win size: 4096
+Wed Aug 15 04:07:34.013 <kernel> wl0: MDNS: IPV4 Addr: 192.168.0.36
+Wed Aug 15 04:07:34.013 <kernel> wl0: MDNS: IPV6 Addr: fe80:0:0:0:18e3:aa0:2ec3:6789
+Wed Aug 15 04:07:34.013 <kernel> wl0: MDNS: IPV6 Addr: 2604:2d80:402d:81a9:1ca9:72f1:e0c2:5b69
+Wed Aug 15 04:07:34.013 <kernel> wl0: MDNS: IPV6 Addr: 2604:2d80:402d:81a9:34d7:6729:bd4:9fc0
+Wed Aug 15 04:07:34.014 <kernel> wl0: MDNS: 0 SRV Recs, 0 TXT Recs
+Wed Aug 15 04:07:34.014 <kernel> wl0: MDNS: 4 TCP ports:  548  445  3031  49201 
+Wed Aug 15 05:07:09.468 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Wed Aug 15 05:07:09.650 <kernel> IO80211VirtualInterface::handleSIOCSIFFLAGS : Source controllerWillChangePowerState calling peerManager->disable
+Wed Aug 15 05:07:09.650 <kernel> wl0: wl_update_tcpkeep_seq: Original Seq: 1558800156, Ack: 3421488245, Win size: 4096
+Wed Aug 15 05:07:09.651 <kernel> wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 1558800156, Ack 3421488245, Win size 250
+Wed Aug 15 05:07:09.651 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+Wed Aug 15 05:07:09.651 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable], in_fatal_err[0]
+Wed Aug 15 05:07:09.651 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+Wed Aug 15 05:07:09.900 <kernel> Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0
+Wed Aug 15 05:07:10.071 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Wed Aug 15 05:07:10.532 <kernel> Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0
+Wed Aug 15 13:33:29.555 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Wed Aug 15 13:33:29.646 <kernel> IO80211VirtualInterface::handleSIOCSIFFLAGS : Source controllerWillChangePowerState calling peerManager->disable
+Wed Aug 15 13:33:29.648 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will turn off.
+Wed Aug 15 13:33:29.648 <kernel> en0: link down event, informing supplicant.
+Wed Aug 15 13:33:29.648 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[disabled]
+Wed Aug 15 13:33:29.648 <kernel> AirPort_BrcmNIC::getSSIDData(): Get failure: APPLE80211_IOC_SSID: 82
+Wed Aug 15 13:33:29.987 <kernel> Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0
+Wed Aug 15 13:33:30.489 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Wed Aug 15 13:33:30.679 <kernel> Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0
+Wed Aug 15 13:33:30.710 <airportd[152]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Wed Aug 15 13:33:30.810 <airportd[152]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Wed Aug 15 13:33:35.972 <kernel> en0: Terminating supplicant.
+Wed Aug 15 13:33:35.973 <kernel> RSNSupplicant: Releasing authenticator for aa:20:2e:67:1d:58
+Wed Aug 15 13:33:35.973 <kernel> parseRSNIE: groupCipherType = 5 pairwiseCipherType = 5 authSel = 2
+Wed Aug 15 13:33:35.973 <kernel> initWithInterfaceAndIE: _myMacAddress 8c:85:90:91:53:16
+Wed Aug 15 13:33:35.973 <kernel> setPMK: PMK SET!
+Wed Aug 15 13:33:39.809 <kernel> IO80211AssociationJoinSnapshot::captureRequestCallback Problem reported from corecapture
+Wed Aug 15 13:33:39.815 <kernel> Unexpected payload found for message 9, dataLen 0
+Wed Aug 15 13:33:39.815 <kernel> en0: Terminating supplicant.
+Wed Aug 15 13:33:39.815 <kernel> RSNSupplicant: Releasing authenticator for 00:00:00:00:00:00
+Wed Aug 15 13:33:40.037 <kernel> parseRSNIE: groupCipherType = 5 pairwiseCipherType = 5 authSel = 2
+Wed Aug 15 13:33:40.037 <kernel> initWithInterfaceAndIE: _myMacAddress 8c:85:90:91:53:16
+Wed Aug 15 13:33:40.037 <kernel> setPMK: PMK SET!
+Wed Aug 15 13:33:40.362 <kernel> Unexpected payload found for message 9, dataLen 0
+Wed Aug 15 13:33:40.362 <kernel> en0: Received EAPOL packet (length = 113)
+Wed Aug 15 13:33:40.362 <kernel> inputEAPOLFrame: 0 extra bytes present in EAPOL frame.
+Wed Aug 15 13:33:40.363 <kernel> inputEAPOLFrame: Received message 1 of 4
+Wed Aug 15 13:33:40.363 <kernel> FULL RSN IE FOUND:
+Wed Aug 15 13:33:40.363 [00000000] 30 14 01 00 00 0F AC 04 01 00 00 0F AC 04 01 00 00 0F AC 02 00 00 
+Wed Aug 15 13:33:40.363 <kernel> storeFullRSNIE: getAP_IE_LIST returned 0
+Wed Aug 15 13:33:40.363 <kernel> PMK:
+Wed Aug 15 13:33:40.363 [00000000] 2B D5 20 B4 E6 3C F1 E7 BD 70 A3 9E 85 9A 4B 3E BD 14 7B 6A 70 63 A2 52 63 FB D2 67 A4 79 
+Wed Aug 15 13:33:40.363 [0000001E] 85 7B 
+Wed Aug 15 13:33:40.363 <kernel> TPTK:
+Wed Aug 15 13:33:40.363 [00000000] C3 CC 2E CD 80 E7 C2 24 7C F4 6A 06 ED 41 B7 97 2F FA D5 B1 AC B9 89 38 73 76 4C A2 D9 1C 
+Wed Aug 15 13:33:40.363 [0000001E] 64 42 62 70 82 73 31 1E D8 A7 DA 4F 3A B4 B9 85 A7 A3 00 00 00 00 00 00 00 00 00 00 00 00 
+Wed Aug 15 13:33:40.363 [0000003C] 00 00 00 00 
+Wed Aug 15 13:33:40.363 <kernel> KEY MIC:
+Wed Aug 15 13:33:40.363 [00000000] F9 F9 C0 76 80 FB 76 06 4F 6D CF 78 5F 94 19 CC 
+Wed Aug 15 13:33:40.363 <kernel> process1of4: sending replyPacket 135 bytes
+Wed Aug 15 13:33:40.367 <kernel> en0: Received EAPOL packet (length = 169)
+Wed Aug 15 13:33:40.367 <kernel> inputEAPOLFrame: 0 extra bytes present in EAPOL frame.
+Wed Aug 15 13:33:40.367 <kernel> inputEAPOLFrame: decrypting key data
+Wed Aug 15 13:33:40.367 <kernel> inputEAPOLFrame: Received message 3 of 4
+Wed Aug 15 13:33:40.367 <kernel> process3of4: Performing IE check.
+Wed Aug 15 13:33:40.367 <kernel> process3of4: sending replyPacket ( len = 113 ).
+Wed Aug 15 13:33:40.367 <kernel> process3of4: received pairwise GTK
+Wed Aug 15 13:33:40.368 <kernel> ptkThread: Sleeping!
+Wed Aug 15 13:33:40.368 <kernel> ptkThread: Sleeping!
+Wed Aug 15 13:33:40.370 <kernel> ptkThread: Sleeping!
+Wed Aug 15 13:33:40.371 <kernel> ptkThread: Sleeping!
+Wed Aug 15 13:33:40.372 <kernel> ptkThread: Sleeping!
+Wed Aug 15 13:33:40.373 <kernel> ptkThread: Sleeping!
+Wed Aug 15 13:33:40.374 <kernel> ptkThread: Sleeping!
+Wed Aug 15 13:33:40.376 <kernel> ptkThread: Installing PTK!
+Wed Aug 15 13:33:40.376 <kernel> PTK:
+Wed Aug 15 13:33:40.376 [00000000] 62 70 82 73 31 1E D8 A7 DA 4F 3A B4 B9 85 A7 A3 
+Wed Aug 15 13:33:40.376 <kernel> ptkThread: Installing GTK!
+Wed Aug 15 13:33:40.376 <kernel> installGTK: setting cipher key (flags = 0x0)
+Wed Aug 15 13:33:40.376 <kernel> GTK-RSC:
+Wed Aug 15 13:33:40.376 [00000000] 91 B1 09 00 00 00 
+Wed Aug 15 13:33:40.376 <kernel> GTK:
+Wed Aug 15 13:33:40.376 [00000000] 55 4C 7A 34 5E 31 DD F4 69 56 9F 38 B2 10 A0 29 
+Wed Aug 15 13:33:40.376 <kernel> installGTK: GTK installed
+Wed Aug 15 13:33:40.472 <kernel> Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0
+Wed Aug 15 13:33:58.239 <airportd[152]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Wed Aug 15 13:33:58.522 <kernel> en0: Terminating supplicant.
+Wed Aug 15 13:33:58.523 <kernel> RSNSupplicant: Releasing authenticator for 10:da:43:14:63:3c
+Wed Aug 15 13:33:58.531 <kernel> AirPort_BrcmNIC::getSSIDData(): Get failure: APPLE80211_IOC_SSID: 6
+Wed Aug 15 13:33:58.569 <kernel> parseRSNIE: groupCipherType = 5 pairwiseCipherType = 5 authSel = 2
+Wed Aug 15 13:33:58.569 <kernel> initWithInterfaceAndIE: _myMacAddress 8c:85:90:91:53:16
+Wed Aug 15 13:33:58.569 <kernel> setPMK: PMK SET!
+Wed Aug 15 13:33:58.720 <airportd[152]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Wed Aug 15 13:33:58.802 <kernel> Unexpected payload found for message 9, dataLen 0
+Wed Aug 15 13:33:58.949 <kernel> en0: Received EAPOL packet (length = 113)
+Wed Aug 15 13:33:58.949 <kernel> inputEAPOLFrame: 0 extra bytes present in EAPOL frame.
+Wed Aug 15 13:33:58.949 <kernel> inputEAPOLFrame: Received message 1 of 4
+Wed Aug 15 13:33:58.949 <kernel> FULL RSN IE FOUND:
+Wed Aug 15 13:33:58.950 [00000000] 30 14 01 00 00 0F AC 04 01 00 00 0F AC 04 01 00 00 0F AC 02 00 00 
+Wed Aug 15 13:33:58.950 <kernel> storeFullRSNIE: getAP_IE_LIST returned 0
+Wed Aug 15 13:33:58.950 <kernel> PMK:
+Wed Aug 15 13:33:58.950 [00000000] 17 C7 11 1F 01 31 C3 18 1F 58 01 24 80 12 09 AB EE 55 DE 6E 3E D0 F5 0A 0E 2E 5C 85 E9 3D 
+Wed Aug 15 13:33:58.950 [0000001E] 9E EE 
+Wed Aug 15 13:33:58.950 <kernel> TPTK:
+Wed Aug 15 13:33:58.950 [00000000] 4E 8A 2F CE B0 EB 57 79 1F 7A 0E 81 08 53 C9 DC 03 F3 BC EE 9C 79 9E FF D1 ED 19 B8 8C A7 
+Wed Aug 15 13:33:58.950 [0000001E] D9 A4 99 11 3D 99 03 48 CC 0F 02 10 F2 6A 01 D8 36 6B 00 00 00 00 00 00 00 00 00 00 00 00 
+Wed Aug 15 13:33:58.950 [0000003C] 00 00 00 00 
+Wed Aug 15 13:33:58.950 <kernel> KEY MIC:
+Wed Aug 15 13:33:58.950 [00000000] B0 84 D5 0E A4 7E 4E CC 68 82 D6 90 92 B5 8C B6 
+Wed Aug 15 13:33:58.950 <kernel> process1of4: sending replyPacket 135 bytes
+Wed Aug 15 13:33:58.951 <kernel> en0: Received EAPOL packet (length = 169)
+Wed Aug 15 13:33:58.951 <kernel> inputEAPOLFrame: 0 extra bytes present in EAPOL frame.
+Wed Aug 15 13:33:58.951 <kernel> inputEAPOLFrame: decrypting key data
+Wed Aug 15 13:33:58.952 <kernel> inputEAPOLFrame: Received message 3 of 4
+Wed Aug 15 13:33:58.952 <kernel> process3of4: Performing IE check.
+Wed Aug 15 13:33:58.952 <kernel> process3of4: sending replyPacket ( len = 113 ).
+Wed Aug 15 13:33:58.952 <kernel> process3of4: received pairwise GTK
+Wed Aug 15 13:33:58.952 <kernel> ptkThread: Sleeping!
+Wed Aug 15 13:33:58.953 <kernel> ptkThread: Installing PTK!
+Wed Aug 15 13:33:58.953 <kernel> PTK:
+Wed Aug 15 13:33:58.953 [00000000] 99 11 3D 99 03 48 CC 0F 02 10 F2 6A 01 D8 36 6B 
+Wed Aug 15 13:33:58.953 <kernel> ptkThread: Installing GTK!
+Wed Aug 15 13:33:58.953 <kernel> installGTK: setting cipher key (flags = 0x0)
+Wed Aug 15 13:33:58.953 <kernel> GTK-RSC:
+Wed Aug 15 13:33:58.953 [00000000] 95 55 04 00 00 00 
+Wed Aug 15 13:33:58.953 <kernel> GTK:
+Wed Aug 15 13:33:58.953 [00000000] 7D 52 03 72 A3 AD 80 D8 99 F7 11 CE 9F C6 A1 07 
+Wed Aug 15 13:33:58.953 <kernel> installGTK: GTK installed
+Wed Aug 15 13:33:59.031 <kernel> Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0
+Wed Aug 15 13:34:03.245 <airportd[152]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Wed Aug 15 13:34:03.255 <airportd[152]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Wed Aug 15 13:37:15.848 <kernel> wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10
+Wed Aug 15 13:37:15.849 <kernel> wl0: setup_keepalive: Local IP: 192.168.1.20
+Wed Aug 15 13:37:15.849 <kernel> wl0: setup_keepalive: Remote IP: 17.249.230.7
+Wed Aug 15 13:37:15.849 <kernel> wl0: setup_keepalive: Local port: 60538, Remote port: 5223
+Wed Aug 15 13:37:15.849 <kernel> wl0: setup_keepalive: Seq: 3456619218, Ack: 2283676440, Win size: 4096
+Wed Aug 15 13:37:15.849 <kernel> wl0: MDNS: IPV4 Addr: 192.168.1.20
+Wed Aug 15 13:37:15.849 <kernel> wl0: MDNS: IPV6 Addr: fe80:0:0:0:18e3:aa0:2ec3:6789
+Wed Aug 15 13:37:15.849 <kernel> wl0: MDNS: 0 SRV Recs, 0 TXT Recs
+Wed Aug 15 13:37:15.849 <kernel> wl0: MDNS: 4 TCP ports:  548  445  3031  49201 
+Wed Aug 15 13:41:56.316 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Wed Aug 15 13:41:56.473 <kernel> IO80211VirtualInterface::handleSIOCSIFFLAGS : Source controllerWillChangePowerState calling peerManager->disable
+Wed Aug 15 13:41:56.473 <kernel> wl0: wl_update_tcpkeep_seq: Original Seq: 3456619218, Ack: 2283676440, Win size: 4096
+Wed Aug 15 13:41:56.473 <kernel> wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 3456620455, Ack 2283676440, Win size 463
+Wed Aug 15 13:41:56.473 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+Wed Aug 15 13:41:56.473 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable], in_fatal_err[0]
+Wed Aug 15 13:41:56.473 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+Wed Aug 15 13:41:57.759 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Wed Aug 15 13:52:09.738 <kernel> wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10
+Wed Aug 15 13:52:09.738 <kernel> wl0: setup_keepalive: Local IP: 192.168.1.20
+Wed Aug 15 13:52:09.738 <kernel> wl0: setup_keepalive: Remote IP: 17.249.230.7
+Wed Aug 15 13:52:09.738 <kernel> wl0: setup_keepalive: Local port: 60538, Remote port: 5223
+Wed Aug 15 13:52:09.738 <kernel> wl0: setup_keepalive: Seq: 3456623802, Ack: 2283681485, Win size: 4096
+Wed Aug 15 13:52:09.738 <kernel> wl0: MDNS: IPV4 Addr: 192.168.1.20
+Wed Aug 15 13:52:09.738 <kernel> wl0: MDNS: IPV6 Addr: fe80:0:0:0:18e3:aa0:2ec3:6789
+Wed Aug 15 13:52:09.738 <kernel> wl0: MDNS: 0 SRV Recs, 0 TXT Recs
+Wed Aug 15 13:52:09.738 <kernel> wl0: MDNS: 4 TCP ports:  548  445  3031  49201 
+Wed Aug 15 13:54:24.319 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Wed Aug 15 13:54:24.380 <kernel> IO80211VirtualInterface::handleSIOCSIFFLAGS : Source controllerWillChangePowerState calling peerManager->disable
+Wed Aug 15 13:54:24.381 <kernel> wl0: wl_update_tcpkeep_seq: Original Seq: 3456623802, Ack: 2283681485, Win size: 4096
+Wed Aug 15 13:54:24.381 <kernel> wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 3456624937, Ack 2283681485, Win size 531
+Wed Aug 15 13:54:24.381 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+Wed Aug 15 13:54:24.381 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable], in_fatal_err[0]
+Wed Aug 15 13:54:24.381 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+Wed Aug 15 13:54:24.900 <kernel> ARPT: Wake Reason: Wake on TCP Data
+Wed Aug 15 13:54:25.440 <kernel> ARPT: Wake Reason: Wake on TCP Data
+Wed Aug 15 13:54:25.440 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Wed Aug 15 13:54:55.785 <kernel> wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10
+Wed Aug 15 13:54:55.785 <kernel> wl0: setup_keepalive: Local IP: 192.168.1.20
+Wed Aug 15 13:54:55.785 <kernel> wl0: setup_keepalive: Remote IP: 17.249.230.7
+Wed Aug 15 13:54:55.785 <kernel> wl0: setup_keepalive: Local port: 60538, Remote port: 5223
+Wed Aug 15 13:54:55.785 <kernel> wl0: setup_keepalive: Seq: 3456625299, Ack: 2283681943, Win size: 4096
+Wed Aug 15 13:54:55.785 <kernel> wl0: MDNS: IPV4 Addr: 192.168.1.20
+Wed Aug 15 13:54:55.785 <kernel> wl0: MDNS: IPV6 Addr: fe80:0:0:0:18e3:aa0:2ec3:6789
+Wed Aug 15 13:54:55.785 <kernel> wl0: MDNS: 0 SRV Recs, 0 TXT Recs
+Wed Aug 15 13:54:55.785 <kernel> wl0: MDNS: 4 TCP ports:  548  445  3031  49201 
+Wed Aug 15 13:56:48.317 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Wed Aug 15 13:56:48.317 <kernel> IO80211VirtualInterface::handleSIOCSIFFLAGS : Source controllerWillChangePowerState calling peerManager->disable
+Wed Aug 15 13:56:48.317 <kernel> wl0: wl_update_tcpkeep_seq: Original Seq: 3456625299, Ack: 2283681943, Win size: 4096
+Wed Aug 15 13:56:48.317 <kernel> wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 3456625299, Ack 2283681943, Win size 554
+Wed Aug 15 13:56:48.317 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+Wed Aug 15 13:56:48.317 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable], in_fatal_err[0]
+Wed Aug 15 13:56:48.317 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+Wed Aug 15 13:56:48.996 <kernel> Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0
+Wed Aug 15 13:56:49.095 <kernel> Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0
+Wed Aug 15 13:56:49.833 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Wed Aug 15 14:10:21.296 <kernel> wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10
+Wed Aug 15 14:10:21.297 <kernel> wl0: setup_keepalive: Local IP: 192.168.1.20
+Wed Aug 15 14:10:21.297 <kernel> wl0: setup_keepalive: Remote IP: 17.249.230.7
+Wed Aug 15 14:10:21.297 <kernel> wl0: setup_keepalive: Local port: 60538, Remote port: 5223
+Wed Aug 15 14:10:21.297 <kernel> wl0: setup_keepalive: Seq: 3456628402, Ack: 2283683560, Win size: 4096
+Wed Aug 15 14:10:21.297 <kernel> wl0: MDNS: IPV4 Addr: 192.168.1.20
+Wed Aug 15 14:10:21.297 <kernel> wl0: MDNS: IPV6 Addr: fe80:0:0:0:18e3:aa0:2ec3:6789
+Wed Aug 15 14:10:21.297 <kernel> wl0: MDNS: 0 SRV Recs, 0 TXT Recs
+Wed Aug 15 14:10:21.297 <kernel> wl0: MDNS: 4 TCP ports:  548  445  3031  49201 
+Wed Aug 15 14:23:45.326 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Wed Aug 15 14:23:45.389 <kernel> IO80211VirtualInterface::handleSIOCSIFFLAGS : Source controllerWillChangePowerState calling peerManager->disable
+Wed Aug 15 14:23:45.389 <kernel> wl0: wl_update_tcpkeep_seq: Original Seq: 3456628402, Ack: 2283683560, Win size: 4096
+Wed Aug 15 14:23:45.389 <kernel> wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 3456629639, Ack 2283683560, Win size 644
+Wed Aug 15 14:23:45.389 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+Wed Aug 15 14:23:45.389 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable], in_fatal_err[0]
+Wed Aug 15 14:23:45.389 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+Wed Aug 15 14:23:45.907 <kernel> ARPT: Wake Reason: Wake on TCP Data
+Wed Aug 15 14:23:46.455 <kernel> ARPT: Wake Reason: Wake on TCP Data
+Wed Aug 15 14:23:46.458 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Wed Aug 15 14:24:17.085 <kernel> wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10
+Wed Aug 15 14:24:17.085 <kernel> wl0: setup_keepalive: Local IP: 192.168.1.20
+Wed Aug 15 14:24:17.085 <kernel> wl0: setup_keepalive: Remote IP: 17.249.230.7
+Wed Aug 15 14:24:17.085 <kernel> wl0: setup_keepalive: Local port: 60538, Remote port: 5223
+Wed Aug 15 14:24:17.085 <kernel> wl0: setup_keepalive: Seq: 3456629899, Ack: 2283684066, Win size: 4096
+Wed Aug 15 14:24:17.085 <kernel> wl0: MDNS: IPV4 Addr: 192.168.1.20
+Wed Aug 15 14:24:17.085 <kernel> wl0: MDNS: IPV6 Addr: fe80:0:0:0:18e3:aa0:2ec3:6789
+Wed Aug 15 14:24:17.085 <kernel> wl0: MDNS: 0 SRV Recs, 0 TXT Recs
+Wed Aug 15 14:24:17.085 <kernel> wl0: MDNS: 4 TCP ports:  548  445  3031  49201 
+Wed Aug 15 14:27:24.327 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Wed Aug 15 14:27:24.328 <kernel> IO80211VirtualInterface::handleSIOCSIFFLAGS : Source controllerWillChangePowerState calling peerManager->disable
+Wed Aug 15 14:27:24.328 <kernel> wl0: wl_update_tcpkeep_seq: Original Seq: 3456629899, Ack: 2283684066, Win size: 4096
+Wed Aug 15 14:27:24.328 <kernel> wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 3456629899, Ack 2283684066, Win size 644
+Wed Aug 15 14:27:24.328 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+Wed Aug 15 14:27:24.328 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable], in_fatal_err[0]
+Wed Aug 15 14:27:24.328 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+Wed Aug 15 14:27:26.302 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Wed Aug 15 15:24:53.547 <kernel> wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10
+Wed Aug 15 15:24:53.547 <kernel> wl0: setup_keepalive: Local IP: 192.168.1.20
+Wed Aug 15 15:24:53.547 <kernel> wl0: setup_keepalive: Remote IP: 17.249.230.7
+Wed Aug 15 15:24:53.547 <kernel> wl0: setup_keepalive: Local port: 60538, Remote port: 5223
+Wed Aug 15 15:24:53.547 <kernel> wl0: setup_keepalive: Seq: 3456633283, Ack: 2283687287, Win size: 4096
+Wed Aug 15 15:24:53.547 <kernel> wl0: MDNS: IPV4 Addr: 192.168.1.20
+Wed Aug 15 15:24:53.547 <kernel> wl0: MDNS: IPV6 Addr: fe80:0:0:0:18e3:aa0:2ec3:6789
+Wed Aug 15 15:24:53.548 <kernel> wl0: MDNS: 0 SRV Recs, 0 TXT Recs
+Wed Aug 15 15:24:53.548 <kernel> wl0: MDNS: 4 TCP ports:  548  445  3031  49201 
+Wed Aug 15 15:37:56.360 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Wed Aug 15 15:37:56.416 <kernel> IO80211VirtualInterface::handleSIOCSIFFLAGS : Source controllerWillChangePowerState calling peerManager->disable
+Wed Aug 15 15:37:56.416 <kernel> wl0: wl_update_tcpkeep_seq: Original Seq: 3456633283, Ack: 2283687287, Win size: 4096
+Wed Aug 15 15:37:56.416 <kernel> wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 3456634520, Ack 2283687287, Win size 735
+Wed Aug 15 15:37:56.417 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+Wed Aug 15 15:37:56.417 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable], in_fatal_err[0]
+Wed Aug 15 15:37:56.417 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+Wed Aug 15 15:37:56.659 <kernel> IO80211AssociationJoinSnapshot::captureRequestCallback Problem reported from corecapture
+Wed Aug 15 15:37:56.977 <kernel> Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0
+Wed Aug 15 15:37:57.305 <kernel> IO80211AssociationJoinSnapshot::captureRequestCallback Problem reported from corecapture
+Wed Aug 15 15:37:57.310 <kernel> Unexpected payload found for message 34, dataLen 2
+Wed Aug 15 15:37:57.310 <kernel> payload Data 06 00 
+Wed Aug 15 15:37:57.482 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Wed Aug 15 15:38:01.370 <kernel> en0: roam event, sending supplicant link down message.
+Wed Aug 15 15:38:01.640 <kernel> en0: Received EAPOL packet (length = 113)
+Wed Aug 15 15:38:01.640 <kernel> inputEAPOLFrame: 0 extra bytes present in EAPOL frame.
+Wed Aug 15 15:38:01.640 <kernel> inputEAPOLFrame: Received message 1 of 4
+Wed Aug 15 15:38:01.640 <kernel> FULL RSN IE FOUND:
+Wed Aug 15 15:38:01.640 [00000000] 30 14 01 00 00 0F AC 04 01 00 00 0F AC 04 01 00 00 0F AC 02 00 00 
+Wed Aug 15 15:38:01.640 <kernel> storeFullRSNIE: getAP_IE_LIST returned 0
+Wed Aug 15 15:38:01.640 <kernel> PMK:
+Wed Aug 15 15:38:01.640 [00000000] 17 C7 11 1F 01 31 C3 18 1F 58 01 24 80 12 09 AB EE 55 DE 6E 3E D0 F5 0A 0E 2E 5C 85 E9 3D 
+Wed Aug 15 15:38:01.640 [0000001E] 9E EE 
+Wed Aug 15 15:38:01.640 <kernel> TPTK:
+Wed Aug 15 15:38:01.640 [00000000] 72 6F 00 8E F0 80 D3 AB 0F 3A A5 87 A9 ED 00 16 99 2B 57 4E EA 17 89 56 0C 3F 66 16 A5 8A 
+Wed Aug 15 15:38:01.640 [0000001E] F0 36 4E 86 AB 1E A2 6B D4 28 FE 82 9B E2 89 0C C2 AC 00 00 00 00 00 00 00 00 00 00 00 00 
+Wed Aug 15 15:38:01.640 [0000003C] 00 00 00 00 
+Wed Aug 15 15:38:01.640 <kernel> KEY MIC:
+Wed Aug 15 15:38:01.640 [00000000] E6 4F 6C EE 89 59 91 40 21 47 4D 5C 5A D7 3C 25 
+Wed Aug 15 15:38:01.640 <kernel> process1of4: sending replyPacket 135 bytes
+Wed Aug 15 15:38:01.646 <kernel> en0: Received EAPOL packet (length = 169)
+Wed Aug 15 15:38:01.646 <kernel> inputEAPOLFrame: 0 extra bytes present in EAPOL frame.
+Wed Aug 15 15:38:01.646 <kernel> inputEAPOLFrame: decrypting key data
+Wed Aug 15 15:38:01.646 <kernel> inputEAPOLFrame: Received message 3 of 4
+Wed Aug 15 15:38:01.646 <kernel> process3of4: Performing IE check.
+Wed Aug 15 15:38:01.646 <kernel> process3of4: sending replyPacket ( len = 113 ).
+Wed Aug 15 15:38:01.646 <kernel> process3of4: received pairwise GTK
+Wed Aug 15 15:38:01.647 <kernel> ptkThread: Sleeping!
+Wed Aug 15 15:38:01.648 <kernel> ptkThread: Installing PTK!
+Wed Aug 15 15:38:01.648 <kernel> PTK:
+Wed Aug 15 15:38:01.648 [00000000] 4E 86 AB 1E A2 6B D4 28 FE 82 9B E2 89 0C C2 AC 
+Wed Aug 15 15:38:01.648 <kernel> ptkThread: Installing GTK!
+Wed Aug 15 15:38:01.648 <kernel> installGTK: setting cipher key (flags = 0x0)
+Wed Aug 15 15:38:01.648 <kernel> GTK-RSC:
+Wed Aug 15 15:38:01.648 [00000000] A4 96 04 00 00 00 
+Wed Aug 15 15:38:01.648 <kernel> GTK:
+Wed Aug 15 15:38:01.648 [00000000] 7D 52 03 72 A3 AD 80 D8 99 F7 11 CE 9F C6 A1 07 
+Wed Aug 15 15:38:01.648 <kernel> installGTK: GTK installed
+Wed Aug 15 15:38:17.808 <kernel> wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10
+Wed Aug 15 15:38:17.810 <kernel> wl0: setup_keepalive: Local IP: 192.168.1.20
+Wed Aug 15 15:38:17.811 <kernel> wl0: setup_keepalive: Remote IP: 17.249.230.7
+Wed Aug 15 15:38:17.811 <kernel> wl0: setup_keepalive: Local port: 60538, Remote port: 5223
+Wed Aug 15 15:38:17.811 <kernel> wl0: setup_keepalive: Seq: 3456634849, Ack: 2283687462, Win size: 4096
+Wed Aug 15 15:38:17.811 <kernel> wl0: MDNS: IPV4 Addr: 192.168.1.20
+Wed Aug 15 15:38:17.811 <kernel> wl0: MDNS: IPV6 Addr: fe80:0:0:0:18e3:aa0:2ec3:6789
+Wed Aug 15 15:38:17.811 <kernel> wl0: MDNS: 0 SRV Recs, 0 TXT Recs
+Wed Aug 15 15:38:17.811 <kernel> wl0: MDNS: 4 TCP ports:  548  445  3031  49201 
+Wed Aug 15 16:12:22.358 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Wed Aug 15 16:12:22.358 <kernel> IO80211VirtualInterface::handleSIOCSIFFLAGS : Source controllerWillChangePowerState calling peerManager->disable
+Wed Aug 15 16:12:22.358 <kernel> wl0: wl_update_tcpkeep_seq: Original Seq: 3456634849, Ack: 2283687462, Win size: 4096
+Wed Aug 15 16:12:22.358 <kernel> wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 3456634849, Ack 2283687462, Win size 757
+Wed Aug 15 16:12:22.358 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+Wed Aug 15 16:12:22.358 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable], in_fatal_err[0]
+Wed Aug 15 16:12:22.358 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+Wed Aug 15 16:12:22.936 <kernel> en0: link down event, informing supplicant.
+Wed Aug 15 16:12:22.944 <kernel> AirPort_BrcmNIC::getSSIDData(): Get failure: APPLE80211_IOC_SSID: 6
+Wed Aug 15 16:12:22.944 <kernel> ARPT: Wake Reason: Wake on Scan offload
+Wed Aug 15 16:12:22.955 <airportd[152]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Wed Aug 15 16:12:23.053 <airportd[152]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Wed Aug 15 16:12:23.494 <kernel> ARPT: Wake Reason: Wake on Scan offload
+Wed Aug 15 16:12:23.494 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Wed Aug 15 16:12:27.456 <kernel> en0: Terminating supplicant.
+Wed Aug 15 16:12:27.456 <kernel> RSNSupplicant: Releasing authenticator for b0:7f:b9:cf:4d:2c
+Wed Aug 15 16:12:27.456 <kernel> parseRSNIE: groupCipherType = 5 pairwiseCipherType = 5 authSel = 2
+Wed Aug 15 16:12:27.456 <kernel> initWithInterfaceAndIE: _myMacAddress 8c:85:90:91:53:16
+Wed Aug 15 16:12:27.456 <kernel> setPMK: PMK SET!
+Wed Aug 15 16:12:30.997 <kernel> en0: Received EAPOL packet (length = 113)
+Wed Aug 15 16:12:30.999 <kernel> inputEAPOLFrame: 0 extra bytes present in EAPOL frame.
+Wed Aug 15 16:12:30.999 <kernel> inputEAPOLFrame: Received message 1 of 4
+Wed Aug 15 16:12:30.999 <kernel> FULL RSN IE FOUND:
+Wed Aug 15 16:12:30.999 [00000000] 30 18 01 00 00 0F AC 04 01 00 00 0F AC 04 02 00 00 0F AC 02 00 0F AC 04 00 00 
+Wed Aug 15 16:12:30.999 <kernel> storeFullRSNIE: getAP_IE_LIST returned 0
+Wed Aug 15 16:12:30.999 <kernel> PMK:
+Wed Aug 15 16:12:30.999 [00000000] B7 6C 2B FE 7B 7D B5 BF CC 60 93 D7 B3 CA A5 62 8B E9 6B 5B B5 3F 2A CA 1C 09 46 20 E2 DE 
+Wed Aug 15 16:12:30.999 [0000001E] 4B E1 
+Wed Aug 15 16:12:30.999 <kernel> TPTK:
+Wed Aug 15 16:12:30.999 [00000000] A0 D9 15 E9 AD 07 0E AB 2F 11 20 E5 03 8F 2A 01 73 C0 A6 EF E5 C8 42 FA E7 25 66 E0 79 87 
+Wed Aug 15 16:12:30.999 [0000001E] 13 B7 BD 1F 16 66 0E 75 14 1E 29 8F 53 CD 87 8B 30 9C 00 00 00 00 00 00 00 00 00 00 00 00 
+Wed Aug 15 16:12:30.999 [0000003C] 00 00 00 00 
+Wed Aug 15 16:12:30.999 <kernel> KEY MIC:
+Wed Aug 15 16:12:30.999 [00000000] E0 1E 5D 9D 21 93 37 08 12 DD B3 8D 96 74 31 6A 
+Wed Aug 15 16:12:30.999 <kernel> process1of4: sending replyPacket 135 bytes
+Wed Aug 15 16:12:31.009 <kernel> en0: Received EAPOL packet (length = 177)
+Wed Aug 15 16:12:31.009 <kernel> inputEAPOLFrame: 0 extra bytes present in EAPOL frame.
+Wed Aug 15 16:12:31.009 <kernel> inputEAPOLFrame: decrypting key data
+Wed Aug 15 16:12:31.009 <kernel> inputEAPOLFrame: Received message 3 of 4
+Wed Aug 15 16:12:31.009 <kernel> process3of4: Unknown Elem ID 54
+Wed Aug 15 16:12:31.009 <kernel> process3of4: Performing IE check.
+Wed Aug 15 16:12:31.009 <kernel> process3of4: sending replyPacket ( len = 113 ).
+Wed Aug 15 16:12:31.009 <kernel> process3of4: received pairwise GTK
+Wed Aug 15 16:12:31.009 <kernel> ptkThread: Sleeping!
+Wed Aug 15 16:12:31.010 <kernel> ptkThread: Installing PTK!
+Wed Aug 15 16:12:31.010 <kernel> PTK:
+Wed Aug 15 16:12:31.010 [00000000] BD 1F 16 66 0E 75 14 1E 29 8F 53 CD 87 8B 30 9C 
+Wed Aug 15 16:12:31.011 <kernel> ptkThread: Installing GTK!
+Wed Aug 15 16:12:31.011 <kernel> installGTK: setting cipher key (flags = 0x0)
+Wed Aug 15 16:12:31.011 <kernel> GTK-RSC:
+Wed Aug 15 16:12:31.011 [00000000] 00 00 00 00 00 00 
+Wed Aug 15 16:12:31.011 <kernel> GTK:
+Wed Aug 15 16:12:31.011 [00000000] 2B C8 A2 5B 66 CE 60 55 CD 56 BF FF 96 CA 5C FD 
+Wed Aug 15 16:12:31.011 <kernel> installGTK: GTK installed
+Wed Aug 15 16:12:31.022 <airportd[152]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Wed Aug 15 16:12:31.032 <airportd[152]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Wed Aug 15 16:12:31.091 <kernel> Unexpected payload found for message 9, dataLen 0
+Wed Aug 15 16:12:38.213 <airportd[152]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Wed Aug 15 16:12:39.480 <airportd[152]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Wed Aug 15 16:12:53.544 <kernel> wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10
+Wed Aug 15 16:12:53.544 <kernel> wl0: setup_keepalive: Local IP: 192.168.0.36
+Wed Aug 15 16:12:53.544 <kernel> wl0: setup_keepalive: Remote IP: 17.249.230.16
+Wed Aug 15 16:12:53.545 <kernel> wl0: setup_keepalive: Local port: 62304, Remote port: 5223
+Wed Aug 15 16:12:53.545 <kernel> wl0: setup_keepalive: Seq: 1411492625, Ack: 2324326285, Win size: 4096
+Wed Aug 15 16:12:53.545 <kernel> wl0: MDNS: IPV4 Addr: 192.168.0.36
+Wed Aug 15 16:12:53.545 <kernel> wl0: MDNS: IPV6 Addr: fe80:0:0:0:18e3:aa0:2ec3:6789
+Wed Aug 15 16:12:53.545 <kernel> wl0: MDNS: IPV6 Addr: 2604:2d80:402d:81a9:1ca9:72f1:e0c2:5b69
+Wed Aug 15 16:12:53.545 <kernel> wl0: MDNS: IPV6 Addr: 2604:2d80:402d:81a9:28d6:52cb:f628:634f
+Wed Aug 15 16:12:53.545 <kernel> wl0: MDNS: 0 SRV Recs, 0 TXT Recs
+Wed Aug 15 16:12:53.545 <kernel> wl0: MDNS: 4 TCP ports:  548  445  3031  49201 
+Wed Aug 15 18:12:58.351 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Wed Aug 15 18:12:58.351 <kernel> IO80211VirtualInterface::handleSIOCSIFFLAGS : Source controllerWillChangePowerState calling peerManager->disable
+Wed Aug 15 18:12:58.351 <kernel> wl0: wl_update_tcpkeep_seq: Original Seq: 1411492625, Ack: 2324326285, Win size: 4096
+Wed Aug 15 18:12:58.351 <kernel> wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 1411492625, Ack 2324326285, Win size 250
+Wed Aug 15 18:12:58.351 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+Wed Aug 15 18:12:58.351 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable], in_fatal_err[0]
+Wed Aug 15 18:12:58.351 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+Wed Aug 15 18:12:59.461 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Wed Aug 15 18:13:09.207 <kernel> wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10
+Wed Aug 15 18:13:09.208 <kernel> wl0: setup_keepalive: Local IP: 192.168.0.36
+Wed Aug 15 18:13:09.208 <kernel> wl0: setup_keepalive: Remote IP: 17.249.230.16
+Wed Aug 15 18:13:09.208 <kernel> wl0: setup_keepalive: Local port: 62304, Remote port: 5223
+Wed Aug 15 18:13:09.208 <kernel> wl0: setup_keepalive: Seq: 1411492800, Ack: 2324326338, Win size: 4096
+Wed Aug 15 18:13:09.208 <kernel> wl0: MDNS: IPV4 Addr: 192.168.0.36
+Wed Aug 15 18:13:09.209 <kernel> wl0: MDNS: IPV6 Addr: fe80:0:0:0:18e3:aa0:2ec3:6789
+Wed Aug 15 18:13:09.209 <kernel> wl0: MDNS: IPV6 Addr: 2604:2d80:402d:81a9:1ca9:72f1:e0c2:5b69
+Wed Aug 15 18:13:09.209 <kernel> wl0: MDNS: IPV6 Addr: 2604:2d80:402d:81a9:28d6:52cb:f628:634f
+Wed Aug 15 18:13:09.209 <kernel> wl0: MDNS: 0 SRV Recs, 0 TXT Recs
+Wed Aug 15 18:13:09.209 <kernel> wl0: MDNS: 4 TCP ports:  548  445  3031  49201 
+Wed Aug 15 18:25:00.345 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Wed Aug 15 18:25:00.345 <kernel> IO80211VirtualInterface::handleSIOCSIFFLAGS : Source controllerWillChangePowerState calling peerManager->disable
+Wed Aug 15 18:25:00.345 <kernel> wl0: wl_update_tcpkeep_seq: Original Seq: 1411492800, Ack: 2324326338, Win size: 4096
+Wed Aug 15 18:25:00.345 <kernel> wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 1411492800, Ack 2324326338, Win size 250
+Wed Aug 15 18:25:00.345 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+Wed Aug 15 18:25:00.345 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable], in_fatal_err[0]
+Wed Aug 15 18:25:00.345 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+Wed Aug 15 18:25:01.466 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Wed Aug 15 18:25:05.293 <kernel> wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10
+Wed Aug 15 18:25:05.293 <kernel> wl0: setup_keepalive: Local IP: 192.168.0.36
+Wed Aug 15 18:25:05.293 <kernel> wl0: setup_keepalive: Remote IP: 17.249.230.16
+Wed Aug 15 18:25:05.293 <kernel> wl0: setup_keepalive: Local port: 62304, Remote port: 5223
+Wed Aug 15 18:25:05.293 <kernel> wl0: setup_keepalive: Seq: 1411492975, Ack: 2324326391, Win size: 4096
+Wed Aug 15 18:25:05.294 <kernel> wl0: MDNS: IPV4 Addr: 192.168.0.36
+Wed Aug 15 18:25:05.294 <kernel> wl0: MDNS: IPV6 Addr: fe80:0:0:0:18e3:aa0:2ec3:6789
+Wed Aug 15 18:25:05.294 <kernel> wl0: MDNS: IPV6 Addr: 2604:2d80:402d:81a9:1ca9:72f1:e0c2:5b69
+Wed Aug 15 18:25:05.294 <kernel> wl0: MDNS: IPV6 Addr: 2604:2d80:402d:81a9:28d6:52cb:f628:634f
+Wed Aug 15 18:25:05.294 <kernel> wl0: MDNS: 0 SRV Recs, 0 TXT Recs
+Wed Aug 15 18:25:05.294 <kernel> wl0: MDNS: 4 TCP ports:  548  445  3031  49201 
+Wed Aug 15 19:21:58.570 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Wed Aug 15 19:21:58.746 <kernel> IO80211VirtualInterface::handleSIOCSIFFLAGS : Source controllerWillChangePowerState calling peerManager->disable
+Wed Aug 15 19:21:58.746 <kernel> wl0: wl_update_tcpkeep_seq: Original Seq: 1411492975, Ack: 2324326391, Win size: 4096
+Wed Aug 15 19:21:58.746 <kernel> wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 1411492975, Ack 2324326391, Win size 250
+Wed Aug 15 19:21:58.746 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+Wed Aug 15 19:21:58.746 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable], in_fatal_err[0]
+Wed Aug 15 19:21:58.747 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+Wed Aug 15 19:21:59.116 <kernel> Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0
+Wed Aug 15 19:21:59.502 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Wed Aug 15 19:30:46.566 <kernel> en0: Received EAPOL packet (length = 145)
+Wed Aug 15 19:30:46.566 <kernel> inputEAPOLFrame: 0 extra bytes present in EAPOL frame.
+Wed Aug 15 19:30:46.566 <kernel> inputEAPOLFrame: decrypting key data
+Wed Aug 15 19:30:46.566 <kernel> inputEAPOLFrame: Received message 1 of 2
+Wed Aug 15 19:30:46.566 <kernel> installGTK: setting cipher key (flags = 0x0)
+Wed Aug 15 19:30:46.566 <kernel> GTK-RSC:
+Wed Aug 15 19:30:46.566 [00000000] 00 00 00 00 00 00 
+Wed Aug 15 19:30:46.566 <kernel> GTK:
+Wed Aug 15 19:30:46.566 [00000000] 4B 98 4E 3C 38 AC 98 FF 01 3E AE A0 6F 37 79 CB 
+Wed Aug 15 19:30:46.567 <kernel> installGTK: GTK installed
+Wed Aug 15 19:40:46.647 <kernel> en0: Received EAPOL packet (length = 145)
+Wed Aug 15 19:40:46.649 <kernel> inputEAPOLFrame: 0 extra bytes present in EAPOL frame.
+Wed Aug 15 19:40:46.649 <kernel> inputEAPOLFrame: decrypting key data
+Wed Aug 15 19:40:46.649 <kernel> inputEAPOLFrame: Received message 1 of 2
+Wed Aug 15 19:40:46.649 <kernel> installGTK: setting cipher key (flags = 0x0)
+Wed Aug 15 19:40:46.649 <kernel> GTK-RSC:
+Wed Aug 15 19:40:46.649 [00000000] 00 00 00 00 00 00 
+Wed Aug 15 19:40:46.649 <kernel> GTK:
+Wed Aug 15 19:40:46.650 [00000000] 36 1A 32 B4 15 D9 06 12 CA 11 8E 2E EF 09 37 ED 
+Wed Aug 15 19:40:46.650 <kernel> installGTK: GTK installed
+Wed Aug 15 19:50:46.600 <kernel> en0: Received EAPOL packet (length = 145)
+Wed Aug 15 19:50:46.602 <kernel> inputEAPOLFrame: 0 extra bytes present in EAPOL frame.
+Wed Aug 15 19:50:46.602 <kernel> inputEAPOLFrame: decrypting key data
+Wed Aug 15 19:50:46.602 <kernel> inputEAPOLFrame: Received message 1 of 2
+Wed Aug 15 19:50:46.602 <kernel> installGTK: setting cipher key (flags = 0x0)
+Wed Aug 15 19:50:46.602 <kernel> GTK-RSC:
+Wed Aug 15 19:50:46.602 [00000000] 00 00 00 00 00 00 
+Wed Aug 15 19:50:46.602 <kernel> GTK:
+Wed Aug 15 19:50:46.602 [00000000] 61 EE F0 E1 53 B5 17 07 2A 89 0E 77 EF 24 A4 CD 
+Wed Aug 15 19:50:46.602 <kernel> installGTK: GTK installed
+Wed Aug 15 20:00:46.677 <kernel> en0: Received EAPOL packet (length = 145)
+Wed Aug 15 20:00:46.679 <kernel> inputEAPOLFrame: 0 extra bytes present in EAPOL frame.
+Wed Aug 15 20:00:46.679 <kernel> inputEAPOLFrame: decrypting key data
+Wed Aug 15 20:00:46.679 <kernel> inputEAPOLFrame: Received message 1 of 2
+Wed Aug 15 20:00:46.679 <kernel> installGTK: setting cipher key (flags = 0x0)
+Wed Aug 15 20:00:46.679 <kernel> GTK-RSC:
+Wed Aug 15 20:00:46.679 [00000000] 00 00 00 00 00 00 
+Wed Aug 15 20:00:46.679 <kernel> GTK:
+Wed Aug 15 20:00:46.679 [00000000] 89 85 A3 56 8A 78 DA 01 89 BD A6 BE 20 11 F7 E9 
+Wed Aug 15 20:00:46.679 <kernel> installGTK: GTK installed
+Wed Aug 15 20:04:31.243 <kernel> en0: Received EAPOL packet (length = 145)
+Wed Aug 15 20:04:31.245 <kernel> inputEAPOLFrame: 0 extra bytes present in EAPOL frame.
+Wed Aug 15 20:04:31.245 <kernel> inputEAPOLFrame: decrypting key data
+Wed Aug 15 20:04:31.245 <kernel> inputEAPOLFrame: Received message 1 of 2
+Wed Aug 15 20:04:31.245 <kernel> installGTK: setting cipher key (flags = 0x0)
+Wed Aug 15 20:04:31.245 <kernel> GTK-RSC:
+Wed Aug 15 20:04:31.245 [00000000] 00 00 00 00 00 00 
+Wed Aug 15 20:04:31.245 <kernel> GTK:
+Wed Aug 15 20:04:31.245 [00000000] D6 60 9C 5D 14 A3 65 76 FB 93 11 76 95 BC D3 65 
+Wed Aug 15 20:04:31.245 <kernel> installGTK: GTK installed
+Wed Aug 15 20:14:31.348 <kernel> en0: Received EAPOL packet (length = 145)
+Wed Aug 15 20:14:31.350 <kernel> inputEAPOLFrame: 0 extra bytes present in EAPOL frame.
+Wed Aug 15 20:14:31.350 <kernel> inputEAPOLFrame: decrypting key data
+Wed Aug 15 20:14:31.350 <kernel> inputEAPOLFrame: Received message 1 of 2
+Wed Aug 15 20:14:31.350 <kernel> installGTK: setting cipher key (flags = 0x0)
+Wed Aug 15 20:14:31.350 <kernel> GTK-RSC:
+Wed Aug 15 20:14:31.350 [00000000] 00 00 00 00 00 00 
+Wed Aug 15 20:14:31.350 <kernel> GTK:
+Wed Aug 15 20:14:31.350 [00000000] 9B 07 C3 4D A8 BB C6 09 37 A3 9A 48 7D 55 43 CE 
+Wed Aug 15 20:14:31.350 <kernel> installGTK: GTK installed
+Wed Aug 15 20:24:31.434 <kernel> en0: Received EAPOL packet (length = 145)
+Wed Aug 15 20:24:31.436 <kernel> inputEAPOLFrame: 0 extra bytes present in EAPOL frame.
+Wed Aug 15 20:24:31.436 <kernel> inputEAPOLFrame: decrypting key data
+Wed Aug 15 20:24:31.436 <kernel> inputEAPOLFrame: Received message 1 of 2
+Wed Aug 15 20:24:31.436 <kernel> installGTK: setting cipher key (flags = 0x0)
+Wed Aug 15 20:24:31.436 <kernel> GTK-RSC:
+Wed Aug 15 20:24:31.436 [00000000] 00 00 00 00 00 00 
+Wed Aug 15 20:24:31.436 <kernel> GTK:
+Wed Aug 15 20:24:31.436 [00000000] 86 6F D4 61 70 23 E5 4A ED 61 BB 04 D5 60 64 77 
+Wed Aug 15 20:24:31.436 <kernel> installGTK: GTK installed
+Wed Aug 15 20:34:31.502 <kernel> en0: Received EAPOL packet (length = 145)
+Wed Aug 15 20:34:31.504 <kernel> inputEAPOLFrame: 0 extra bytes present in EAPOL frame.
+Wed Aug 15 20:34:31.504 <kernel> inputEAPOLFrame: decrypting key data
+Wed Aug 15 20:34:31.504 <kernel> inputEAPOLFrame: Received message 1 of 2
+Wed Aug 15 20:34:31.504 <kernel> installGTK: setting cipher key (flags = 0x0)
+Wed Aug 15 20:34:31.504 <kernel> GTK-RSC:
+Wed Aug 15 20:34:31.504 [00000000] 00 00 00 00 00 00 
+Wed Aug 15 20:34:31.504 <kernel> GTK:
+Wed Aug 15 20:34:31.504 [00000000] 46 2F 52 E5 F2 FE 6F 19 9A 77 2E 43 E8 60 1A 31 
+Wed Aug 15 20:34:31.504 <kernel> installGTK: GTK installed
+Wed Aug 15 20:44:31.589 <kernel> en0: Received EAPOL packet (length = 145)
+Wed Aug 15 20:44:31.591 <kernel> inputEAPOLFrame: 0 extra bytes present in EAPOL frame.
+Wed Aug 15 20:44:31.591 <kernel> inputEAPOLFrame: decrypting key data
+Wed Aug 15 20:44:31.591 <kernel> inputEAPOLFrame: Received message 1 of 2
+Wed Aug 15 20:44:31.591 <kernel> installGTK: setting cipher key (flags = 0x0)
+Wed Aug 15 20:44:31.591 <kernel> GTK-RSC:
+Wed Aug 15 20:44:31.591 [00000000] 00 00 00 00 00 00 
+Wed Aug 15 20:44:31.591 <kernel> GTK:
+Wed Aug 15 20:44:31.591 [00000000] BA 70 6A 9E 42 7D B2 43 D6 66 DF 94 AE CE BB 2A 
+Wed Aug 15 20:44:31.591 <kernel> installGTK: GTK installed
+Wed Aug 15 20:52:03.433 <kernel> en0: Terminating supplicant.
+Wed Aug 15 20:52:03.433 <kernel> RSNSupplicant: Releasing authenticator for aa:20:2e:67:1d:58
+Wed Aug 15 20:52:03.441 <kernel> AirPort_BrcmNIC::getSSIDData(): Get failure: APPLE80211_IOC_SSID: 6
+Wed Aug 15 20:52:03.468 <kernel> parseRSNIE: groupCipherType = 5 pairwiseCipherType = 5 authSel = 2
+Wed Aug 15 20:52:03.468 <kernel> initWithInterfaceAndIE: _myMacAddress 8c:85:90:91:53:16
+Wed Aug 15 20:52:03.468 <kernel> setPMK: PMK SET!
+Wed Aug 15 20:52:03.552 <kernel> en0: Received EAPOL packet (length = 113)
+Wed Aug 15 20:52:03.552 <kernel> inputEAPOLFrame: 0 extra bytes present in EAPOL frame.
+Wed Aug 15 20:52:03.552 <kernel> inputEAPOLFrame: Received message 1 of 4
+Wed Aug 15 20:52:03.552 <kernel> FULL RSN IE FOUND:
+Wed Aug 15 20:52:03.552 [00000000] 30 18 01 00 00 0F AC 04 01 00 00 0F AC 04 02 00 00 0F AC 02 00 0F AC 04 00 00 
+Wed Aug 15 20:52:03.552 <kernel> storeFullRSNIE: getAP_IE_LIST returned 0
+Wed Aug 15 20:52:03.552 <kernel> PMK:
+Wed Aug 15 20:52:03.552 [00000000] B4 3D BF 6A 00 FC 6B BB D3 E2 FF 96 32 AA D6 CE 58 50 8B BA C9 BF 8E 4E 63 22 20 E6 B7 47 
+Wed Aug 15 20:52:03.552 [0000001E] C4 CB 
+Wed Aug 15 20:52:03.552 <kernel> TPTK:
+Wed Aug 15 20:52:03.552 [00000000] 97 F0 86 4C B2 DC B0 63 5B 39 9B 9C 76 E2 DA FC 4F 54 A4 47 EE 04 33 78 98 AE 24 33 04 16 
+Wed Aug 15 20:52:03.552 [0000001E] 4B 34 D6 9A B5 56 F0 77 50 A2 AA 44 3E FC CA 25 85 BE 00 00 00 00 00 00 00 00 00 00 00 00 
+Wed Aug 15 20:52:03.552 [0000003C] 00 00 00 00 
+Wed Aug 15 20:52:03.552 <kernel> KEY MIC:
+Wed Aug 15 20:52:03.552 [00000000] 53 81 87 F3 1C 32 A3 20 5A F8 77 66 10 9A EE 5D 
+Wed Aug 15 20:52:03.552 <kernel> process1of4: sending replyPacket 135 bytes
+Wed Aug 15 20:52:03.558 <airportd[152]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Wed Aug 15 20:52:03.567 <kernel> en0: Received EAPOL packet (length = 177)
+Wed Aug 15 20:52:03.568 <kernel> inputEAPOLFrame: 0 extra bytes present in EAPOL frame.
+Wed Aug 15 20:52:03.568 <kernel> inputEAPOLFrame: decrypting key data
+Wed Aug 15 20:52:03.568 <kernel> inputEAPOLFrame: Received message 3 of 4
+Wed Aug 15 20:52:03.568 <kernel> process3of4: Unknown Elem ID 54
+Wed Aug 15 20:52:03.568 <kernel> process3of4: Performing IE check.
+Wed Aug 15 20:52:03.568 <kernel> process3of4: sending replyPacket ( len = 113 ).
+Wed Aug 15 20:52:03.568 <kernel> process3of4: received pairwise GTK
+Wed Aug 15 20:52:03.568 <kernel> ptkThread: Sleeping!
+Wed Aug 15 20:52:03.569 <kernel> ptkThread: Sleeping!
+Wed Aug 15 20:52:03.569 <kernel> ptkThread: Installing PTK!
+Wed Aug 15 20:52:03.570 <kernel> PTK:
+Wed Aug 15 20:52:03.570 [00000000] D6 9A B5 56 F0 77 50 A2 AA 44 3E FC CA 25 85 BE 
+Wed Aug 15 20:52:03.570 <kernel> ptkThread: Installing GTK!
+Wed Aug 15 20:52:03.570 <kernel> installGTK: setting cipher key (flags = 0x0)
+Wed Aug 15 20:52:03.570 <kernel> GTK-RSC:
+Wed Aug 15 20:52:03.570 [00000000] E6 01 00 00 00 00 
+Wed Aug 15 20:52:03.570 <kernel> GTK:
+Wed Aug 15 20:52:03.570 [00000000] 62 A3 79 F9 01 63 AC 62 8C 95 5D A2 DE 0F 51 A6 
+Wed Aug 15 20:52:03.570 <kernel> installGTK: GTK installed
+Wed Aug 15 20:52:03.575 <kernel> Unexpected payload found for message 9, dataLen 0
+Wed Aug 15 20:52:03.580 <airportd[152]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Wed Aug 15 20:52:03.743 <kernel> Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0
+Wed Aug 15 20:52:07.543 <airportd[152]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Wed Aug 15 20:52:07.556 <airportd[152]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Wed Aug 15 20:52:10.584 <kernel> en0: Terminating supplicant.
+Wed Aug 15 20:52:10.585 <kernel> RSNSupplicant: Releasing authenticator for ae:20:2e:67:1d:58
+Wed Aug 15 20:52:10.594 <kernel> AirPort_BrcmNIC::getSSIDData(): Get failure: APPLE80211_IOC_SSID: 6
+Wed Aug 15 20:52:10.621 <kernel> parseRSNIE: groupCipherType = 5 pairwiseCipherType = 5 authSel = 2
+Wed Aug 15 20:52:10.621 <kernel> initWithInterfaceAndIE: _myMacAddress 8c:85:90:91:53:16
+Wed Aug 15 20:52:10.621 <kernel> setPMK: PMK SET!
+Wed Aug 15 20:52:10.746 <kernel> en0: Received EAPOL packet (length = 113)
+Wed Aug 15 20:52:10.746 <kernel> inputEAPOLFrame: 0 extra bytes present in EAPOL frame.
+Wed Aug 15 20:52:10.746 <kernel> inputEAPOLFrame: Received message 1 of 4
+Wed Aug 15 20:52:10.746 <kernel> FULL RSN IE FOUND:
+Wed Aug 15 20:52:10.747 [00000000] 30 18 01 00 00 0F AC 04 01 00 00 0F AC 04 02 00 00 0F AC 02 00 0F AC 04 00 00 
+Wed Aug 15 20:52:10.747 <kernel> storeFullRSNIE: getAP_IE_LIST returned 0
+Wed Aug 15 20:52:10.747 <kernel> PMK:
+Wed Aug 15 20:52:10.747 [00000000] B7 6C 2B FE 7B 7D B5 BF CC 60 93 D7 B3 CA A5 62 8B E9 6B 5B B5 3F 2A CA 1C 09 46 20 E2 DE 
+Wed Aug 15 20:52:10.747 [0000001E] 4B E1 
+Wed Aug 15 20:52:10.747 <kernel> TPTK:
+Wed Aug 15 20:52:10.747 [00000000] 7B 72 5A 03 EA CD 82 BB 58 CB 4A 3A 1D 56 EF A1 5B E4 63 20 C1 43 DF A0 DB 47 A0 81 23 4F 
+Wed Aug 15 20:52:10.747 [0000001E] 94 D8 92 96 2F 21 BC 8C AF 50 7F 5B 34 4A 5F 35 95 E7 00 00 00 00 00 00 00 00 00 00 00 00 
+Wed Aug 15 20:52:10.747 [0000003C] 00 00 00 00 
+Wed Aug 15 20:52:10.747 <kernel> KEY MIC:
+Wed Aug 15 20:52:10.747 [00000000] 11 99 4A 61 80 7D 8D D6 76 25 F9 7E 9C 16 2F 6F 
+Wed Aug 15 20:52:10.747 <kernel> process1of4: sending replyPacket 135 bytes
+Wed Aug 15 20:52:10.753 <airportd[152]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Wed Aug 15 20:52:10.755 <airportd[152]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Wed Aug 15 20:52:10.760 <kernel> en0: Received EAPOL packet (length = 177)
+Wed Aug 15 20:52:10.760 <kernel> inputEAPOLFrame: 0 extra bytes present in EAPOL frame.
+Wed Aug 15 20:52:10.760 <kernel> inputEAPOLFrame: decrypting key data
+Wed Aug 15 20:52:10.760 <kernel> inputEAPOLFrame: Received message 3 of 4
+Wed Aug 15 20:52:10.760 <kernel> process3of4: Unknown Elem ID 54
+Wed Aug 15 20:52:10.760 <kernel> process3of4: Performing IE check.
+Wed Aug 15 20:52:10.760 <kernel> process3of4: sending replyPacket ( len = 113 ).
+Wed Aug 15 20:52:10.760 <kernel> process3of4: received pairwise GTK
+Wed Aug 15 20:52:10.760 <kernel> ptkThread: Sleeping!
+Wed Aug 15 20:52:10.761 <kernel> ptkThread: Installing PTK!
+Wed Aug 15 20:52:10.761 <kernel> PTK:
+Wed Aug 15 20:52:10.761 [00000000] 92 96 2F 21 BC 8C AF 50 7F 5B 34 4A 5F 35 95 E7 
+Wed Aug 15 20:52:10.761 <kernel> ptkThread: Installing GTK!
+Wed Aug 15 20:52:10.761 <kernel> installGTK: setting cipher key (flags = 0x0)
+Wed Aug 15 20:52:10.761 <kernel> GTK-RSC:
+Wed Aug 15 20:52:10.761 [00000000] 00 00 00 00 00 00 
+Wed Aug 15 20:52:10.761 <kernel> GTK:
+Wed Aug 15 20:52:10.761 [00000000] 7F 43 49 BC 3B FE D0 C5 CC D4 79 44 33 DC 54 67 
+Wed Aug 15 20:52:10.761 <kernel> installGTK: GTK installed
+Wed Aug 15 20:52:10.765 <kernel> Unexpected payload found for message 9, dataLen 0
+Wed Aug 15 20:52:10.850 <kernel> Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0
+Wed Aug 15 20:52:15.588 <airportd[152]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Wed Aug 15 20:52:15.605 <airportd[152]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Wed Aug 15 20:52:19.277 <airportd[152]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Wed Aug 15 20:52:21.229 <airportd[152]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Wed Aug 15 20:53:17.722 ***Starting Up***
+Wed Aug 15 20:53:17.735 <kernel> IO80211Controller::addSubscriptionForThisReporterFetchedOnTimer() Failed to addSubscription for group Interface p2p0 subgroup Data Packets driver 0x2b74199c4e1873ab - data underrun
+Wed Aug 15 20:53:17.735 <kernel> IO80211InterfaceMonitor::configureSubscriptions() failed to add subscription
+Wed Aug 15 20:53:18.037 <kernel>  Creating all peerManager reporters
+Wed Aug 15 20:53:18.088 <airportd[112]> _initLocaleManager: Started locale manager
+Wed Aug 15 20:53:18.102 <airportd[112]> airportdProcessDLILEvent: en0 attached (up)
+Wed Aug 15 20:53:18.118 <kernel> wl0: setAWDL_PEER_TRAFFIC_REGISTRATION: active 0, roam_off: 0, err 0 roam_start_set 0 forced_roam_set 0
+Wed Aug 15 20:53:18.169 <kernel> Setting BTCoex Profile: band:8
+Wed Aug 15 20:53:18.169 <kernel> Profile[0]: mode:7; desense:0; desense_level:0; chain_power_offset:<kernel> 0,<kernel> 0,<kernel> 0,<kernel> 0,<kernel> 
+Wed Aug 15 20:53:18.169 <kernel> Profile[1]: mode:7; desense:0; desense_level:0; chain_power_offset:<kernel> 0,<kernel> 0,<kernel> 0,<kernel> 0,<kernel> 
+Wed Aug 15 20:53:18.169 <kernel> Profile[2]: mode:7; desense:1; desense_level:3; chain_power_offset:<kernel> 0,<kernel> 0,<kernel> 0,<kernel> 0,<kernel> 
+Wed Aug 15 20:53:18.169 <kernel> Profile[3]: mode:7; desense:0; desense_level:0; chain_power_offset:<kernel> 0,<kernel> 0,<kernel> 0,<kernel> 0,<kernel> 
+Wed Aug 15 20:53:18.169 <kernel> Setting BTCoex Profile: band:2
+Wed Aug 15 20:53:18.169 <kernel> Profile[0]: mode:0; desense:0; desense_level:0; chain_power_offset:<kernel> 0,<kernel> 0,<kernel> 0,<kernel> 0,<kernel> 
+Wed Aug 15 20:53:18.169 <kernel> Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0
+Wed Aug 15 20:53:19.957 <kernel> Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0
+Wed Aug 15 20:53:22.656 <kernel> parseRSNIE: groupCipherType = 5 pairwiseCipherType = 5 authSel = 2
+Wed Aug 15 20:53:22.656 <kernel> initWithInterfaceAndIE: _myMacAddress 8c:85:90:91:53:16
+Wed Aug 15 20:53:22.656 <kernel> setPMK: PMK SET!
+Wed Aug 15 20:53:22.785 <kernel> en0: Received EAPOL packet (length = 113)
+Wed Aug 15 20:53:22.785 <kernel> inputEAPOLFrame: 0 extra bytes present in EAPOL frame.
+Wed Aug 15 20:53:22.785 <kernel> inputEAPOLFrame: Received message 1 of 4
+Wed Aug 15 20:53:22.785 <kernel> FULL RSN IE FOUND:
+Wed Aug 15 20:53:22.785 [00000000] 30 18 01 00 00 0F AC 04 01 00 00 0F AC 04 02 00 00 0F AC 02 00 0F AC 04 00 00 
+Wed Aug 15 20:53:22.785 <kernel> storeFullRSNIE: getAP_IE_LIST returned 0
+Wed Aug 15 20:53:22.786 <kernel> PMK:
+Wed Aug 15 20:53:22.786 [00000000] B4 3D BF 6A 00 FC 6B BB D3 E2 FF 96 32 AA D6 CE 58 50 8B BA C9 BF 8E 4E 63 22 20 E6 B7 47 
+Wed Aug 15 20:53:22.786 [0000001E] C4 CB 
+Wed Aug 15 20:53:22.786 <kernel> TPTK:
+Wed Aug 15 20:53:22.786 [00000000] 36 05 B5 F8 92 14 08 45 94 77 93 F5 AB 81 C8 44 61 75 51 EC F8 AC 32 6A A1 36 53 80 E0 28 
+Wed Aug 15 20:53:22.786 [0000001E] 4B DB 4B 70 0F 95 7E 71 BF EC 76 64 4A 80 79 FE 45 60 00 00 00 00 00 00 00 00 00 00 00 00 
+Wed Aug 15 20:53:22.786 [0000003C] 00 00 00 00 
+Wed Aug 15 20:53:22.786 <kernel> KEY MIC:
+Wed Aug 15 20:53:22.786 [00000000] A4 C4 D1 32 E9 4D 77 CC 4C 3C 59 63 86 93 30 E0 
+Wed Aug 15 20:53:22.786 <kernel> process1of4: sending replyPacket 135 bytes
+Wed Aug 15 20:53:22.804 <kernel> en0: Received EAPOL packet (length = 177)
+Wed Aug 15 20:53:22.804 <kernel> inputEAPOLFrame: 0 extra bytes present in EAPOL frame.
+Wed Aug 15 20:53:22.804 <kernel> inputEAPOLFrame: decrypting key data
+Wed Aug 15 20:53:22.804 <kernel> inputEAPOLFrame: Received message 3 of 4
+Wed Aug 15 20:53:22.804 <kernel> process3of4: Unknown Elem ID 54
+Wed Aug 15 20:53:22.804 <kernel> process3of4: Performing IE check.
+Wed Aug 15 20:53:22.804 <kernel> process3of4: sending replyPacket ( len = 113 ).
+Wed Aug 15 20:53:22.804 <kernel> process3of4: received pairwise GTK
+Wed Aug 15 20:53:22.804 <kernel> ptkThread: Sleeping!
+Wed Aug 15 20:53:22.804 <kernel> ptkThread: Sleeping!
+Wed Aug 15 20:53:22.805 <kernel> ptkThread: Installing PTK!
+Wed Aug 15 20:53:22.805 <kernel> PTK:
+Wed Aug 15 20:53:22.805 [00000000] 4B 70 0F 95 7E 71 BF EC 76 64 4A 80 79 FE 45 60 
+Wed Aug 15 20:53:22.805 <kernel> ptkThread: Installing GTK!
+Wed Aug 15 20:53:22.805 <kernel> installGTK: setting cipher key (flags = 0x0)
+Wed Aug 15 20:53:22.805 <kernel> GTK-RSC:
+Wed Aug 15 20:53:22.805 [00000000] 73 01 00 00 00 00 
+Wed Aug 15 20:53:22.805 <kernel> GTK:
+Wed Aug 15 20:53:22.805 [00000000] EC FD 1C 1C 82 77 EF C4 4C 2B D6 30 1E A2 32 26 
+Wed Aug 15 20:53:22.805 <kernel> installGTK: GTK installed
+Wed Aug 15 20:53:22.863 <kernel> Unexpected payload found for message 9, dataLen 0
+Wed Aug 15 20:53:22.931 <kernel> Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0
+Wed Aug 15 20:53:27.220 <airportd[112]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Wed Aug 15 20:53:27.226 <airportd[112]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Wed Aug 15 20:53:31.945 <airportd[112]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Wed Aug 15 20:53:33.139 <airportd[112]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Wed Aug 15 20:53:36.392 <airportd[112]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Wed Aug 15 20:53:36.407 <airportd[112]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Wed Aug 15 20:53:36.735 <airportd[112]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Wed Aug 15 20:53:36.757 <airportd[112]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Wed Aug 15 20:54:13.296 <kernel> en0: Received EAPOL packet (length = 145)
+Wed Aug 15 20:54:13.296 <kernel> inputEAPOLFrame: 0 extra bytes present in EAPOL frame.
+Wed Aug 15 20:54:13.296 <kernel> inputEAPOLFrame: decrypting key data
+Wed Aug 15 20:54:13.296 <kernel> inputEAPOLFrame: Received message 1 of 2
+Wed Aug 15 20:54:13.296 <kernel> installGTK: setting cipher key (flags = 0x0)
+Wed Aug 15 20:54:13.296 <kernel> GTK-RSC:
+Wed Aug 15 20:54:13.296 [00000000] 00 00 00 00 00 00 
+Wed Aug 15 20:54:13.296 <kernel> GTK:
+Wed Aug 15 20:54:13.296 [00000000] 2D 1A D8 94 69 72 26 49 12 24 01 AE 20 9E 6D D7 
+Wed Aug 15 20:54:13.296 <kernel> installGTK: GTK installed
+Wed Aug 15 20:54:23.936 <kernel> en0: Received EAPOL packet (length = 145)
+Wed Aug 15 20:54:23.936 <kernel> inputEAPOLFrame: 0 extra bytes present in EAPOL frame.
+Wed Aug 15 20:54:23.937 <kernel> inputEAPOLFrame: decrypting key data
+Wed Aug 15 20:54:23.937 <kernel> inputEAPOLFrame: Received message 1 of 2
+Wed Aug 15 20:54:23.937 <kernel> installGTK: setting cipher key (flags = 0x0)
+Wed Aug 15 20:54:23.937 <kernel> GTK-RSC:
+Wed Aug 15 20:54:23.937 [00000000] 00 00 00 00 00 00 
+Wed Aug 15 20:54:23.937 <kernel> GTK:
+Wed Aug 15 20:54:23.937 [00000000] 90 F9 DC 3A A7 0C B0 54 A2 25 83 A8 39 48 04 9B 
+Wed Aug 15 20:54:23.937 <kernel> installGTK: GTK installed
+Wed Aug 15 20:55:50.524 <kernel> en0: Terminating supplicant.
+Wed Aug 15 20:55:50.525 <kernel> RSNSupplicant: Releasing authenticator for ae:20:2e:67:1d:58
+Wed Aug 15 20:55:50.533 <kernel> AirPort_BrcmNIC::getSSIDData(): Get failure: APPLE80211_IOC_SSID: 6
+Wed Aug 15 20:55:50.561 <kernel> parseRSNIE: groupCipherType = 5 pairwiseCipherType = 5 authSel = 2
+Wed Aug 15 20:55:50.561 <kernel> initWithInterfaceAndIE: _myMacAddress 8c:85:90:91:53:16
+Wed Aug 15 20:55:50.561 <kernel> setPMK: PMK SET!
+Wed Aug 15 20:55:50.717 <kernel> Unexpected payload found for message 9, dataLen 0
+Wed Aug 15 20:55:50.723 <kernel> en0: Received EAPOL packet (length = 113)
+Wed Aug 15 20:55:50.723 <kernel> inputEAPOLFrame: 0 extra bytes present in EAPOL frame.
+Wed Aug 15 20:55:50.723 <kernel> inputEAPOLFrame: Received message 1 of 4
+Wed Aug 15 20:55:50.723 <kernel> FULL RSN IE FOUND:
+Wed Aug 15 20:55:50.723 [00000000] 30 18 01 00 00 0F AC 04 01 00 00 0F AC 04 02 00 00 0F AC 02 00 0F AC 04 00 00 
+Wed Aug 15 20:55:50.723 <kernel> storeFullRSNIE: getAP_IE_LIST returned 0
+Wed Aug 15 20:55:50.723 <kernel> PMK:
+Wed Aug 15 20:55:50.723 [00000000] B7 6C 2B FE 7B 7D B5 BF CC 60 93 D7 B3 CA A5 62 8B E9 6B 5B B5 3F 2A CA 1C 09 46 20 E2 DE 
+Wed Aug 15 20:55:50.723 [0000001E] 4B E1 
+Wed Aug 15 20:55:50.723 <kernel> TPTK:
+Wed Aug 15 20:55:50.723 [00000000] 3A 24 BD D2 43 C2 09 E2 7F 15 BB FE 5B 43 63 44 F6 5D 2D 30 FD 6D 6A 9F DD 09 8F 67 C4 22 
+Wed Aug 15 20:55:50.723 [0000001E] 7E 3A 2D 3F 2F 4F 9F 1F B8 5E 71 E9 DA 4D 44 2A 96 FF 00 00 00 00 00 00 00 00 00 00 00 00 
+Wed Aug 15 20:55:50.724 [0000003C] 00 00 00 00 
+Wed Aug 15 20:55:50.724 <kernel> KEY MIC:
+Wed Aug 15 20:55:50.724 [00000000] 97 CF 9F 36 A0 68 D2 23 F4 8C A6 0B 88 5F D1 78 
+Wed Aug 15 20:55:50.724 <kernel> process1of4: sending replyPacket 135 bytes
+Wed Aug 15 20:55:50.737 <kernel> en0: Received EAPOL packet (length = 177)
+Wed Aug 15 20:55:50.737 <kernel> inputEAPOLFrame: 0 extra bytes present in EAPOL frame.
+Wed Aug 15 20:55:50.737 <kernel> inputEAPOLFrame: decrypting key data
+Wed Aug 15 20:55:50.737 <kernel> inputEAPOLFrame: Received message 3 of 4
+Wed Aug 15 20:55:50.737 <kernel> process3of4: Unknown Elem ID 54
+Wed Aug 15 20:55:50.737 <kernel> process3of4: Performing IE check.
+Wed Aug 15 20:55:50.738 <kernel> process3of4: sending replyPacket ( len = 113 ).
+Wed Aug 15 20:55:50.738 <kernel> process3of4: received pairwise GTK
+Wed Aug 15 20:55:50.738 <kernel> ptkThread: Sleeping!
+Wed Aug 15 20:55:50.738 <kernel> ptkThread: Installing PTK!
+Wed Aug 15 20:55:50.738 <kernel> PTK:
+Wed Aug 15 20:55:50.738 [00000000] 2D 3F 2F 4F 9F 1F B8 5E 71 E9 DA 4D 44 2A 96 FF 
+Wed Aug 15 20:55:50.738 <kernel> ptkThread: Installing GTK!
+Wed Aug 15 20:55:50.738 <kernel> installGTK: setting cipher key (flags = 0x0)
+Wed Aug 15 20:55:50.738 <kernel> GTK-RSC:
+Wed Aug 15 20:55:50.738 [00000000] 00 00 00 00 00 00 
+Wed Aug 15 20:55:50.738 <kernel> GTK:
+Wed Aug 15 20:55:50.738 [00000000] 8A 6E EF 8D E0 DE 82 85 7B 64 E0 D7 BC 8C 7B 70 
+Wed Aug 15 20:55:50.738 <kernel> installGTK: GTK installed
+Wed Aug 15 20:55:50.747 <airportd[112]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Wed Aug 15 20:55:50.788 <airportd[112]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Wed Aug 15 20:55:50.829 <kernel> Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0
+Wed Aug 15 20:55:54.953 <airportd[112]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Wed Aug 15 20:55:54.958 <airportd[112]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Wed Aug 15 20:55:55.909 <airportd[112]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Wed Aug 15 21:02:41.334 <kernel> en0: Received EAPOL packet (length = 145)
+Wed Aug 15 21:02:41.336 <kernel> inputEAPOLFrame: 0 extra bytes present in EAPOL frame.
+Wed Aug 15 21:02:41.336 <kernel> inputEAPOLFrame: decrypting key data
+Wed Aug 15 21:02:41.336 <kernel> inputEAPOLFrame: Received message 1 of 2
+Wed Aug 15 21:02:41.336 <kernel> installGTK: setting cipher key (flags = 0x0)
+Wed Aug 15 21:02:41.336 <kernel> GTK-RSC:
+Wed Aug 15 21:02:41.336 [00000000] 00 00 00 00 00 00 
+Wed Aug 15 21:02:41.336 <kernel> GTK:
+Wed Aug 15 21:02:41.336 [00000000] 57 03 4E CE E5 B5 43 3F C4 4A E8 9F 81 D3 67 CC 
+Wed Aug 15 21:02:41.336 <kernel> installGTK: GTK installed
+Wed Aug 15 21:06:07.373 <kernel> wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10
+Wed Aug 15 21:06:07.374 <kernel> wl0: setup_keepalive: Local IP: 192.168.0.36
+Wed Aug 15 21:06:07.374 <kernel> wl0: setup_keepalive: Remote IP: 17.249.230.30
+Wed Aug 15 21:06:07.374 <kernel> wl0: setup_keepalive: Local port: 49596, Remote port: 5223
+Wed Aug 15 21:06:07.374 <kernel> wl0: setup_keepalive: Seq: 4113349812, Ack: 694327100, Win size: 4096
+Wed Aug 15 21:06:07.374 <kernel> wl0: MDNS: IPV4 Addr: 192.168.0.36
+Wed Aug 15 21:06:07.374 <kernel> wl0: MDNS: IPV6 Addr: fe80:0:0:0:440:d0bd:68d8:f8b
+Wed Aug 15 21:06:07.374 <kernel> wl0: MDNS: IPV6 Addr: 2604:2d80:402d:81a9:1ca9:72f1:e0c2:5b69
+Wed Aug 15 21:06:07.374 <kernel> wl0: MDNS: IPV6 Addr: 2604:2d80:402d:81a9:a05e:869d:2ec:1a4d
+Wed Aug 15 21:06:07.374 <kernel> wl0: MDNS: 0 SRV Recs, 0 TXT Recs
+Wed Aug 15 21:06:07.374 <kernel> wl0: MDNS: 3 TCP ports:  548  445  3031 
+Wed Aug 15 21:10:47.022 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Wed Aug 15 21:10:47.022 <kernel> IO80211VirtualInterface::handleSIOCSIFFLAGS : Source controllerWillChangePowerState calling peerManager->disable
+Wed Aug 15 21:10:47.022 <kernel> wl0: wl_update_tcpkeep_seq: Original Seq: 4113349812, Ack: 694327100, Win size: 4096
+Wed Aug 15 21:10:47.022 <kernel> wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 4113351049, Ack 694327100, Win size 362
+Wed Aug 15 21:10:47.023 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+Wed Aug 15 21:10:47.023 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable], in_fatal_err[0]
+Wed Aug 15 21:10:47.023 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+Wed Aug 15 21:10:48.848 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Wed Aug 15 21:12:41.419 <kernel> en0: Received EAPOL packet (length = 145)
+Wed Aug 15 21:12:41.419 <kernel> inputEAPOLFrame: 0 extra bytes present in EAPOL frame.
+Wed Aug 15 21:12:41.419 <kernel> inputEAPOLFrame: decrypting key data
+Wed Aug 15 21:12:41.419 <kernel> inputEAPOLFrame: Received message 1 of 2
+Wed Aug 15 21:12:41.419 <kernel> installGTK: setting cipher key (flags = 0x0)
+Wed Aug 15 21:12:41.419 <kernel> GTK-RSC:
+Wed Aug 15 21:12:41.419 [00000000] 00 00 00 00 00 00 
+Wed Aug 15 21:12:41.419 <kernel> GTK:
+Wed Aug 15 21:12:41.419 [00000000] C2 85 D1 4A 05 4C 68 66 E2 0C FC A7 2E EC 6A F7 
+Wed Aug 15 21:12:41.419 <kernel> installGTK: GTK installed
+Wed Aug 15 21:14:51.776 <kernel> en0: Received EAPOL packet (length = 145)
+Wed Aug 15 21:14:51.776 <kernel> inputEAPOLFrame: 0 extra bytes present in EAPOL frame.
+Wed Aug 15 21:14:51.777 <kernel> inputEAPOLFrame: decrypting key data
+Wed Aug 15 21:14:51.777 <kernel> inputEAPOLFrame: Received message 1 of 2
+Wed Aug 15 21:14:51.777 <kernel> installGTK: setting cipher key (flags = 0x0)
+Wed Aug 15 21:14:51.777 <kernel> GTK-RSC:
+Wed Aug 15 21:14:51.777 [00000000] 00 00 00 00 00 00 
+Wed Aug 15 21:14:51.777 <kernel> GTK:
+Wed Aug 15 21:14:51.777 [00000000] EC F4 EA C9 E3 EB 4D 7E 1E 8E AB 13 66 BC C2 73 
+Wed Aug 15 21:14:51.777 <kernel> installGTK: GTK installed
+Wed Aug 15 21:15:51.736 <kernel> en0: Received EAPOL packet (length = 145)
+Wed Aug 15 21:15:51.736 <kernel> inputEAPOLFrame: 0 extra bytes present in EAPOL frame.
+Wed Aug 15 21:15:51.736 <kernel> inputEAPOLFrame: decrypting key data
+Wed Aug 15 21:15:51.737 <kernel> inputEAPOLFrame: Received message 1 of 2
+Wed Aug 15 21:15:51.737 <kernel> installGTK: setting cipher key (flags = 0x0)
+Wed Aug 15 21:15:51.737 <kernel> GTK-RSC:
+Wed Aug 15 21:15:51.737 [00000000] 00 00 00 00 00 00 
+Wed Aug 15 21:15:51.737 <kernel> GTK:
+Wed Aug 15 21:15:51.737 [00000000] 90 C2 AB C8 EE A4 14 A7 B2 C3 56 47 5A 77 15 88 
+Wed Aug 15 21:15:51.737 <kernel> installGTK: GTK installed
+Wed Aug 15 21:17:19.539 <kernel> wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10
+Wed Aug 15 21:17:19.540 <kernel> wl0: setup_keepalive: Local IP: 192.168.0.36
+Wed Aug 15 21:17:19.540 <kernel> wl0: setup_keepalive: Remote IP: 17.249.230.30
+Wed Aug 15 21:17:19.540 <kernel> wl0: setup_keepalive: Local port: 49596, Remote port: 5223
+Wed Aug 15 21:17:19.540 <kernel> wl0: setup_keepalive: Seq: 4113354094, Ack: 694327779, Win size: 4096
+Wed Aug 15 21:17:19.540 <kernel> wl0: MDNS: IPV4 Addr: 192.168.0.36
+Wed Aug 15 21:17:19.541 <kernel> wl0: MDNS: IPV6 Addr: fe80:0:0:0:440:d0bd:68d8:f8b
+Wed Aug 15 21:17:19.541 <kernel> wl0: MDNS: IPV6 Addr: 2604:2d80:402d:81a9:1ca9:72f1:e0c2:5b69
+Wed Aug 15 21:17:19.541 <kernel> wl0: MDNS: IPV6 Addr: 2604:2d80:402d:81a9:a05e:869d:2ec:1a4d
+Wed Aug 15 21:17:19.541 <kernel> wl0: MDNS: 0 SRV Recs, 0 TXT Recs
+Wed Aug 15 21:17:19.541 <kernel> wl0: MDNS: 3 TCP ports:  548  445  3031 
+Wed Aug 15 21:30:02.034 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Wed Aug 15 21:30:02.034 <kernel> IO80211VirtualInterface::handleSIOCSIFFLAGS : Source controllerWillChangePowerState calling peerManager->disable
+Wed Aug 15 21:30:02.034 <kernel> wl0: wl_update_tcpkeep_seq: Original Seq: 4113354094, Ack: 694327779, Win size: 4096
+Wed Aug 15 21:30:02.034 <kernel> wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 4113355331, Ack 694327779, Win size 439
+Wed Aug 15 21:30:02.034 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+Wed Aug 15 21:30:02.034 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable], in_fatal_err[0]
+Wed Aug 15 21:30:02.034 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+Wed Aug 15 21:30:03.799 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Wed Aug 15 21:30:28.995 <kernel> Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0
+Wed Aug 15 21:30:41.870 <kernel> wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10
+Wed Aug 15 21:30:41.870 <kernel> wl0: setup_keepalive: Local IP: 192.168.0.36
+Wed Aug 15 21:30:41.870 <kernel> wl0: setup_keepalive: Remote IP: 17.249.230.30
+Wed Aug 15 21:30:41.870 <kernel> wl0: setup_keepalive: Local port: 49596, Remote port: 5223
+Wed Aug 15 21:30:41.870 <kernel> wl0: setup_keepalive: Seq: 4113358376, Ack: 694328458, Win size: 4096
+Wed Aug 15 21:30:41.870 <kernel> wl0: MDNS: IPV4 Addr: 192.168.0.36
+Wed Aug 15 21:30:41.870 <kernel> wl0: MDNS: IPV6 Addr: fe80:0:0:0:440:d0bd:68d8:f8b
+Wed Aug 15 21:30:41.870 <kernel> wl0: MDNS: IPV6 Addr: 2604:2d80:402d:81a9:1ca9:72f1:e0c2:5b69
+Wed Aug 15 21:30:41.870 <kernel> wl0: MDNS: IPV6 Addr: 2604:2d80:402d:81a9:a05e:869d:2ec:1a4d
+Wed Aug 15 21:30:41.870 <kernel> wl0: MDNS: 0 SRV Recs, 0 TXT Recs
+Wed Aug 15 21:30:41.870 <kernel> wl0: MDNS: 3 TCP ports:  548  445  3031 
+Wed Aug 15 21:51:11.040 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Wed Aug 15 21:51:11.040 <kernel> IO80211VirtualInterface::handleSIOCSIFFLAGS : Source controllerWillChangePowerState calling peerManager->disable
+Wed Aug 15 21:51:11.040 <kernel> wl0: wl_update_tcpkeep_seq: Original Seq: 4113358376, Ack: 694328458, Win size: 4096
+Wed Aug 15 21:51:11.041 <kernel> wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 4113358461, Ack 694328458, Win size 497
+Wed Aug 15 21:51:11.041 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+Wed Aug 15 21:51:11.041 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable], in_fatal_err[0]
+Wed Aug 15 21:51:11.041 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+Wed Aug 15 21:51:11.337 <kernel> IO80211AssociationJoinSnapshot::captureRequestCallback Problem reported from corecapture
+Wed Aug 15 21:51:11.649 <kernel> ARPT: Wake Reason: Wake on TCP Timeout
+Wed Aug 15 21:51:12.167 <kernel> ARPT: Wake Reason: Wake on TCP Timeout
+Wed Aug 15 21:51:12.167 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Wed Aug 15 21:51:42.225 <kernel> wl0: TCPKEEP: locate_keepalive_data_new_uc: No IPV4 addrs, keepalive not started.
+Wed Aug 15 21:51:42.225 <kernel> wl0: MDNS: IPV4 Addr: 192.168.0.36
+Wed Aug 15 21:51:42.228 <kernel> wl0: MDNS: IPV6 Addr: fe80:0:0:0:440:d0bd:68d8:f8b
+Wed Aug 15 21:51:42.229 <kernel> wl0: MDNS: IPV6 Addr: 2604:2d80:402d:81a9:1ca9:72f1:e0c2:5b69
+Wed Aug 15 21:51:42.229 <kernel> wl0: MDNS: IPV6 Addr: 2604:2d80:402d:81a9:a05e:869d:2ec:1a4d
+Wed Aug 15 21:51:42.229 <kernel> wl0: MDNS: 0 SRV Recs, 0 TXT Recs
+Wed Aug 15 21:51:42.229 <kernel> wl0: MDNS: 3 TCP ports:  548  445  3031 
+Wed Aug 15 22:46:51.037 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Wed Aug 15 22:46:51.264 <kernel> IO80211VirtualInterface::handleSIOCSIFFLAGS : Source controllerWillChangePowerState calling peerManager->disable
+Wed Aug 15 22:46:51.264 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+Wed Aug 15 22:46:51.264 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable], in_fatal_err[0]
+Wed Aug 15 22:46:51.264 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+Wed Aug 15 22:46:51.719 <kernel> Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0
+Wed Aug 15 22:46:52.502 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Wed Aug 15 22:56:14.618 <kernel> en0: Received EAPOL packet (length = 145)
+Wed Aug 15 22:56:14.619 <kernel> inputEAPOLFrame: 0 extra bytes present in EAPOL frame.
+Wed Aug 15 22:56:14.619 <kernel> inputEAPOLFrame: decrypting key data
+Wed Aug 15 22:56:14.619 <kernel> inputEAPOLFrame: Received message 1 of 2
+Wed Aug 15 22:56:14.620 <kernel> installGTK: setting cipher key (flags = 0x0)
+Wed Aug 15 22:56:14.620 <kernel> GTK-RSC:
+Wed Aug 15 22:56:14.620 [00000000] 00 00 00 00 00 00 
+Wed Aug 15 22:56:14.620 <kernel> GTK:
+Wed Aug 15 22:56:14.620 [00000000] E0 31 A6 92 C8 92 FF BF 34 45 3A D9 D8 1D 00 BB 
+Wed Aug 15 22:56:14.620 <kernel> installGTK: GTK installed
+Wed Aug 15 23:06:14.604 <kernel> en0: Received EAPOL packet (length = 145)
+Wed Aug 15 23:06:14.606 <kernel> inputEAPOLFrame: 0 extra bytes present in EAPOL frame.
+Wed Aug 15 23:06:14.606 <kernel> inputEAPOLFrame: decrypting key data
+Wed Aug 15 23:06:14.606 <kernel> inputEAPOLFrame: Received message 1 of 2
+Wed Aug 15 23:06:14.606 <kernel> installGTK: setting cipher key (flags = 0x0)
+Wed Aug 15 23:06:14.606 <kernel> GTK-RSC:
+Wed Aug 15 23:06:14.606 [00000000] 00 00 00 00 00 00 
+Wed Aug 15 23:06:14.606 <kernel> GTK:
+Wed Aug 15 23:06:14.606 [00000000] 02 ED 43 2C 29 05 17 C9 88 40 70 59 E6 1A 4C 08 
+Wed Aug 15 23:06:14.606 <kernel> installGTK: GTK installed
+Wed Aug 15 23:13:32.993 <kernel> en0: Received EAPOL packet (length = 145)
+Wed Aug 15 23:13:32.995 <kernel> inputEAPOLFrame: 0 extra bytes present in EAPOL frame.
+Wed Aug 15 23:13:32.995 <kernel> inputEAPOLFrame: decrypting key data
+Wed Aug 15 23:13:32.995 <kernel> inputEAPOLFrame: Received message 1 of 2
+Wed Aug 15 23:13:32.995 <kernel> installGTK: setting cipher key (flags = 0x0)
+Wed Aug 15 23:13:32.995 <kernel> GTK-RSC:
+Wed Aug 15 23:13:32.995 [00000000] 00 00 00 00 00 00 
+Wed Aug 15 23:13:32.995 <kernel> GTK:
+Wed Aug 15 23:13:32.995 [00000000] 6E DC 02 92 A7 8D FF CC 97 E6 43 C8 51 AE 9B 81 
+Wed Aug 15 23:13:32.995 <kernel> installGTK: GTK installed
+Wed Aug 15 23:23:33.162 <kernel> en0: Received EAPOL packet (length = 145)
+Wed Aug 15 23:23:33.164 <kernel> inputEAPOLFrame: 0 extra bytes present in EAPOL frame.
+Wed Aug 15 23:23:33.164 <kernel> inputEAPOLFrame: decrypting key data
+Wed Aug 15 23:23:33.164 <kernel> inputEAPOLFrame: Received message 1 of 2
+Wed Aug 15 23:23:33.164 <kernel> installGTK: setting cipher key (flags = 0x0)
+Wed Aug 15 23:23:33.164 <kernel> GTK-RSC:
+Wed Aug 15 23:23:33.164 [00000000] 00 00 00 00 00 00 
+Wed Aug 15 23:23:33.164 <kernel> GTK:
+Wed Aug 15 23:23:33.164 [00000000] 9F 11 8E 17 7E 35 3D 4A 5B 46 2D 20 67 8B 7B 3C 
+Wed Aug 15 23:23:33.164 <kernel> installGTK: GTK installed
+Wed Aug 15 23:31:49.409 <kernel> en0: Received EAPOL packet (length = 145)
+Wed Aug 15 23:31:49.411 <kernel> inputEAPOLFrame: 0 extra bytes present in EAPOL frame.
+Wed Aug 15 23:31:49.411 <kernel> inputEAPOLFrame: decrypting key data
+Wed Aug 15 23:31:49.411 <kernel> inputEAPOLFrame: Received message 1 of 2
+Wed Aug 15 23:31:49.411 <kernel> installGTK: setting cipher key (flags = 0x0)
+Wed Aug 15 23:31:49.411 <kernel> GTK-RSC:
+Wed Aug 15 23:31:49.411 [00000000] 00 00 00 00 00 00 
+Wed Aug 15 23:31:49.411 <kernel> GTK:
+Wed Aug 15 23:31:49.411 [00000000] 91 08 7F 43 FD F5 BA F0 0F B7 0B 61 4B 48 96 04 
+Wed Aug 15 23:31:49.411 <kernel> installGTK: GTK installed
